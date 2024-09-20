@@ -1,0 +1,6 @@
+body {
+    /* these need to be assigned explicitly */
+    height: 10rem; 
+    width: 30rem;
+}
+
